@@ -1,0 +1,11 @@
+{
+  "name": "g1-static-site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx http-server -p 5173",
+    "build": "echo 'Static site - no build needed'"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
